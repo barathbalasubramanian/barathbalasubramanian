@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Barathkumar
+- 👀 I’m interested in Web development and ML. 
+- 🌱 I’m currently pursing B.Tech Artificial intelligence and data science in Kumaraguru college of technology. 
+- 💞 Contact me on LinkedIn (https://www.linkedin.com/in/barath-kumar-567352245) 
